@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdio>
 
 int strToInt(char* str) {
     int rez = 0;
